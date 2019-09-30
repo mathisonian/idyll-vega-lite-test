@@ -1,6 +1,6 @@
-# idyll-post
+# idyll-vega-lite-test
 
-Template for a single Idyll post.
+See it live: https://mathisonian.github.io/idyll-vega-lite-test/index.html
 
 ## Installation
 

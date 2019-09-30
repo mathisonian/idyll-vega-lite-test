@@ -6,7 +6,8 @@
     "theme": "default",
     "layout": "centered",
     "css": "styles.css",
-    "authorView": false
+    "authorView": false,
+    "output": "docs"
   },
   "dependencies": {
     "d3": "^4.0.0",

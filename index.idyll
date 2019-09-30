@@ -19,6 +19,8 @@
 
 [IdyllVegaLite data:myData spec:`{
   mark: "line",
+  width:600,
+  height:300,
   encoding: {
     x: {
       field: "x",

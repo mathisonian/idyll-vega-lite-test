@@ -13,7 +13,10 @@ Run `idyll`.
 
 ## Building a post for production
 
-Run `idyll build`. The output will appear in the top-level `build` folder. To change the output location, change the `output` option in `package.json`.
+Run `idyll build --no-minify`. The output will appear in the top-level `build` folder. To change the output location, change the `output` option in `package.json`.
+
+_The no minify flag must be used because of a current bug minifying the vega-lite component_
+
 
 ## Deploying
 
